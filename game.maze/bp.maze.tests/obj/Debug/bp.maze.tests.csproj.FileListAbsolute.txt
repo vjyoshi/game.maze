@@ -1,0 +1,11 @@
+C:\Playground\bp.maze\bp.maze.tests\bin\Debug\bp.maze.tests.dll
+C:\Playground\bp.maze\bp.maze.tests\bin\Debug\bp.maze.tests.pdb
+C:\Playground\bp.maze\bp.maze.tests\bin\Debug\bp.maze.exe
+C:\Playground\bp.maze\bp.maze.tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Playground\bp.maze\bp.maze.tests\bin\Debug\bp.maze.pdb
+C:\Playground\bp.maze\bp.maze.tests\obj\Debug\bp.maze.tests.dll
+C:\Playground\bp.maze\bp.maze.tests\obj\Debug\bp.maze.tests.pdb
+C:\Playground\bp.maze\bp.maze.tests\bin\Debug\bp.maze.exe.config
+C:\Playground\bp.maze\bp.maze.tests\obj\Debug\bp.maze.tests.csprojAssemblyReference.cache
+C:\Playground\bp.maze\bp.maze.tests\obj\Debug\bp.maze.tests.csproj.CoreCompileInputs.cache
+C:\Playground\bp.maze\bp.maze.tests\obj\Debug\bp.maze.tests.csproj.CopyComplete

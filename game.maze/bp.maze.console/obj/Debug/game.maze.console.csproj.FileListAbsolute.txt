@@ -1,0 +1,11 @@
+C:\Playground\bp.maze\bp.maze.console\bin\Debug\bp.maze.console.exe.config
+C:\Playground\bp.maze\bp.maze.console\bin\Debug\bp.maze.console.exe
+C:\Playground\bp.maze\bp.maze.console\bin\Debug\bp.maze.console.pdb
+C:\Playground\bp.maze\bp.maze.console\obj\Debug\game.maze.console.csproj.CoreCompileInputs.cache
+C:\Playground\bp.maze\bp.maze.console\obj\Debug\game.maze.console.csproj.CopyComplete
+C:\Playground\bp.maze\bp.maze.console\obj\Debug\bp.maze.console.exe
+C:\Playground\bp.maze\bp.maze.console\obj\Debug\bp.maze.console.pdb
+C:\Playground\bp.maze\bp.maze.console\obj\Debug\game.maze.console.csprojAssemblyReference.cache
+C:\Playground\bp.maze\bp.maze.console\bin\Debug\game.maze.exe
+C:\Playground\bp.maze\bp.maze.console\bin\Debug\game.maze.pdb
+C:\Playground\bp.maze\bp.maze.console\bin\Debug\game.maze.exe.config

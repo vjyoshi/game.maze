@@ -1,0 +1,9 @@
+C:\Playground\bp.maze\bp.maze\bin\Debug\bp.maze.exe.config
+C:\Playground\bp.maze\bp.maze\bin\Debug\bp.maze.exe
+C:\Playground\bp.maze\bp.maze\bin\Debug\bp.maze.pdb
+C:\Playground\bp.maze\bp.maze\obj\Debug\bp.maze.Properties.Resources.resources
+C:\Playground\bp.maze\bp.maze\obj\Debug\bp.maze.csproj.GenerateResource.Cache
+C:\Playground\bp.maze\bp.maze\obj\Debug\bp.maze.exe
+C:\Playground\bp.maze\bp.maze\obj\Debug\bp.maze.pdb
+C:\Playground\bp.maze\bp.maze\obj\Debug\bp.maze.csprojAssemblyReference.cache
+C:\Playground\bp.maze\bp.maze\obj\Debug\bp.maze.csproj.CoreCompileInputs.cache
